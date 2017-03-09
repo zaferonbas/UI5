@@ -1,2 +1,1 @@
-# UI5
-Test UI5
+# UI5 Code Snippets
